@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R type d u=rwx,g=rx,o=xr .
+chmod -R -type d u=rwx,g=rx,o=xr .
