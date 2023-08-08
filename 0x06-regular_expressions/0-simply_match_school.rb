@@ -14,3 +14,4 @@ else
   argument = ARGV[0]
   match_school(argument)
 end
+
